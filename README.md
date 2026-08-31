@@ -1,6 +1,10 @@
 Freelance C++ engineer based near Paris. 
 
-- I currently work on the **Boost Graph Library** for the [C++ Alliance](https://cppalliance.org/), modernizing a 20-year-old library to C++14/17 in a way that doesn't break the existing ecosystem. I organized the [Boost.Graph 2026 Workshop](https://github.com/boostorg/graph/discussions/466) in Paris.
+- I currently work on the **Boost Graph Library** for the [C++ Alliance](https://cppalliance.org/), modernizing a 20-year-old library to C++14/17 in a way that doesn't break the existing ecosystem:
+    - improving documentation and unit tests, 
+    - expanding graph algorithms coverage,
+    - making the library more accessible to researchers and industrial users working with large-scale graphs
+- I organized the [Boost.Graph 2026 Workshop](https://github.com/boostorg/graph/discussions/466) in Paris.
 - I'm a member of **WG21**, the ISO C++ standards committee, through INCITS (the US national body), sponsored by the C++ Alliance. I take part in review discussions of standards proposals, recently [P3100](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/p3100r5.pdf) and [P4324](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/p4324r0.html).
 - I regularly serve as a **Review Manager** for Boost library submissions ([Boost.Bloom](https://www.boost.org/doc/libs/develop/libs/bloom/doc/html/bloom.html), [Boost.Int128](https://develop.int128.cpp.al/overview.html)). 
 - PhD in computational biology, 12+ years of C++.
