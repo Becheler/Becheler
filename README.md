@@ -1,6 +1,6 @@
 Freelance C++ engineer based near Paris. 
 
-- I currently work on the **Boost Graph Library** for the [C++ Alliance](https://cppalliance.org/), modernizing a 20-year-old library to C++14/17 in a way that doesn't break the existing ecosystem:
+- I currently work on the [Boost Graph Library](https://www.boost.org/doc/libs/latest/libs/graph/doc/html/graph/index.html) for the [C++ Alliance](https://cppalliance.org/), modernizing a 20-year-old library to C++14/17 in a way that doesn't break the existing ecosystem:
     - improving documentation and unit tests, 
     - expanding graph algorithms coverage,
     - making the library more accessible to researchers and industrial users working with large-scale graphs
