@@ -16,7 +16,7 @@ Freelance C++ engineer based near Paris.
 ### What I do
 
 - **Contract C++ development:** library and API design, generic programming, performance work, modernizing legacy codebases.
-- **Training:** courses delivered independently and through Human Coders and Sparks, in French or English. [Details and testimonials](https://becheler.github.io/pages/cpp-training/).
+- **Training:** courses delivered independently and through Human Coders, in French or English. [Details and testimonials](https://becheler.github.io/pages/cpp-training/).
     - **Modern C++:** architecture, design and modern idioms.
     - **AI for developers:** how to use AI coding assistants well in real development work.
     - **Green IT:** eco-design and sustainable software practices (numérique responsable).
